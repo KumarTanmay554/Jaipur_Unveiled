@@ -28,3 +28,4 @@ To run this project locally, follow these steps:
    pip install Flask-SQLAlchemy
    pip install flask-bcrypt
    pip install Werkzeug
+
